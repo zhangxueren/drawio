@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T13:04:53.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="XatXavRGrfqeBAO1YFA8" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T13:08:53.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="lg2bSxjcb18UpzDxvrWU" version="15.6.8" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="946" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="70666756c84bb93c-15" value="Finance" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="637" y="189" width="45" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="zUTG9THuIJ7gEBNLW6xv-1" value="" style="shape=mxgraph.signs.animals.bear_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="135" width="98" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="zUTG9THuIJ7gEBNLW6xv-2" value="" style="shape=mxgraph.signs.healthcare.eye;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="138.5" width="99" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zUTG9THuIJ7gEBNLW6xv-3" value="" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="257" width="97" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
